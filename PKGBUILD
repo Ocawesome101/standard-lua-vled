@@ -22,7 +22,7 @@ install=
 changelog=
 source=("https://github.com/ocawesome101/standard-lua-vled/raw/master/vled.tar")
 noextract=()
-md5sums=(0ef61292977dbc970361100d02e44adc)
+md5sums=(34818b892d7284e9d72a5be71bab13fd)
 validpgpkeys=()
 
 package() {
